@@ -1,0 +1,14 @@
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\bin\Debug\Nutrition System.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\bin\Debug\Nutrition System.exe.config
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition_System.Main.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition_System.Resources.resources
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.vbproj.GenerateResource.Cache
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.exe
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.xml
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\bin\Debug\Nutrition System.pdb
+C:\Users\Dominic SSD\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\bin\Debug\Nutrition System.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\bin\Debug\Nutrition System.exe.config
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.exe
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.xml
+C:\Users\Awesome\Dropbox\A2 work\Visual Studio\Nutrition Program\Nutrition System\Nutrition System\obj\Debug\Nutrition System.pdb
